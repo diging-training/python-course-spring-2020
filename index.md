@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Who is who
+title: "Who is who"
 ---
 
 # Instructors
 
-- Julia Damerow
+- [Julia Damerow](julia.md)
 - Ken Aiello
+
+# Students
+
