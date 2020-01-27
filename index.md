@@ -12,5 +12,5 @@ This is the webpage for the course "Programming for the Humanities" in the sprin
 
 # Students
 
--[Anna Clemencia Guerrero](anna.md)
+- [Anna Clemencia Guerrero](anna.md)
 
