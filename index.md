@@ -14,4 +14,5 @@ This is the webpage for the course "Programming for the Humanities" in the sprin
 
 - [Anna Clemencia Guerrero](anna.md)
 - [Hin Ming Frankie Chik](Frankie.md)
+- [Xiaohui Guo](guo.md)
 
